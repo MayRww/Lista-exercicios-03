@@ -21,8 +21,8 @@ public class Programa {
         //exercicio18.executar();
          //exercicio19.executar();
         // exercicio20.executar();
-         exercicio21.executar();
-        // exercicio22.executar();
+        // exercicio21.executar();
+         exercicio22.executar();
         // exercicio23.executar();
         // exercicio24.executar();
         // exercicio25.executar();

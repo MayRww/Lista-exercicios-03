@@ -17,4 +17,9 @@ public class exercicio21 {
         
         scanner.close();
     }
+
+    public static void executar() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'executar'");
+    }
 }
