@@ -1,5 +1,6 @@
-
 package Dominio;
+
+
 public class Funcionario3 {
     private String nome;
     private int idade;

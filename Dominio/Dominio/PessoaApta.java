@@ -1,3 +1,5 @@
+package Dominio;
+
 public class PessoaApta {
     private String nome;
     private char sexo;

@@ -1,3 +1,5 @@
+import Dominio.Veiculo1;
+
 public class Concessionaria1 {
     private double totalDesconto;
     private double totalPago;

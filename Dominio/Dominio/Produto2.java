@@ -1,3 +1,4 @@
+package Dominio;
 public class Produto2 {
     private double precoCusto;
     private double precoVenda;

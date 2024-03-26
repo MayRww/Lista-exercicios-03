@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+import Dominio.Veiculo1;
+
 public class exercicio15 {
     public static void executar() {
         Scanner scanner = new Scanner(System.in);

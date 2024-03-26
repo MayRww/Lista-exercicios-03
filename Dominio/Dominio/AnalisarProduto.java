@@ -1,3 +1,4 @@
+package Dominio;
 public class AnalisarProduto {
     private Produto2[] produtos;
 

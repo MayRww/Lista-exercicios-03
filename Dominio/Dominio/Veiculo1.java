@@ -1,3 +1,4 @@
+package Dominio;
 public class Veiculo1 {
     private String tipoCombustivel;
     private double valor;

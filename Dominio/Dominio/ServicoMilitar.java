@@ -1,3 +1,5 @@
+package Dominio;
+
 public class ServicoMilitar {
     private int totalAptas;
     private int totalInaptas;

@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+import Dominio.Funcionario2;
+
 public class exercicio17 {
     public static void executar() {
         Scanner scanner = new Scanner(System.in);

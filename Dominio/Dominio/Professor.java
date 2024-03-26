@@ -1,4 +1,5 @@
 package Dominio;
+
 public class Professor {
     public String nome;
     private int nivel;

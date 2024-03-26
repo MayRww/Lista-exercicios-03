@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+import Dominio.PessoaApta;
+import Dominio.ServicoMilitar;
+
 public class exercicio13 {
     public static void executar() {
         Scanner scanner = new Scanner(System.in);

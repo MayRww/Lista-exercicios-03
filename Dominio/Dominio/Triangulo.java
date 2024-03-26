@@ -1,4 +1,5 @@
 package Dominio;
+
 public class Triangulo {
     private int lado1;
     private int lado2;

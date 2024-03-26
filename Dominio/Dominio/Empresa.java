@@ -1,3 +1,7 @@
+package Dominio;
+
+import Funcionario;
+
 public class Empresa {
     private Funcionario[] funcionarios;
     private int totalFuncionarios;

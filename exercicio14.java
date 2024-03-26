@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+import Dominio.AnalisarProduto;
+import Dominio.Produto2;
+
 public class exercicio14 {
     public static void executar() {
         Scanner scanner = new Scanner(System.in);

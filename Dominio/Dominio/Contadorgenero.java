@@ -1,3 +1,4 @@
+package Dominio;
 public class Contadorgenero {
     class Pessoa{
 

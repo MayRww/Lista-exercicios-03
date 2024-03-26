@@ -1,3 +1,4 @@
+package Dominio;
 public class Funcionario2 {
     private String nome;
     private double salarioAtual;
