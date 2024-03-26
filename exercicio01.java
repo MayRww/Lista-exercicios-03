@@ -1,7 +1,9 @@
 import java.util.Scanner;
 
+import Dominio.Alunomedia;
+
 public class exercicio01 {
-    public static void main(String[] args) {
+    public static void executar() {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Digite o nome do aluno: ");
@@ -16,7 +18,7 @@ public class exercicio01 {
         double nota3 = scanner.nextDouble();
 
         
-        Aluno aluno = new Aluno(nome, nota1, nota2, nota3);
+        Alunomedia aluno = new Alunomedia(nome, nota1, nota2, nota3);
 
         
         aluno.exibirMediaSemestre();

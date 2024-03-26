@@ -1,5 +1,6 @@
+package Dominio;
 
-class Vendedor {
+public class Vendedor {
     private String nome;
     private double salarioFixo;
     private double totalVendas;

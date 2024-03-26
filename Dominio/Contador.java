@@ -1,7 +1,8 @@
-class ContadorIntervalo {
+package Dominio;
+public class Contador {
     private int contador;
 
-    public ContadorIntervalo() {
+    public Contador() {
         this.contador = 0;
     }
 

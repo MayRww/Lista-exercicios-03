@@ -1,10 +1,12 @@
 import java.util.Scanner;
 
+import Dominio.Contador;
+
 public class exercicio09 {
-    public static void main(String[] args) {
+    public static void executar() {
         Scanner scanner = new Scanner(System.in);
 
-        ContadorIntervalo contador = new ContadorIntervalo();
+        Contador contador = new Contador();
 
         for (int i = 0; i < 80; i++) {
             System.out.print("Digite o " + (i + 1) + "º número: ");

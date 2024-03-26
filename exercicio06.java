@@ -1,7 +1,9 @@
 import java.util.Scanner;
 
+import Dominio.Produto;
+
 public class exercicio06 {
-    public static void main(String[] args) {
+    public static void executar() {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Digite o preço de custo do produto: ");

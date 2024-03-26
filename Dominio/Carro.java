@@ -1,3 +1,4 @@
+package Dominio;
 public class Carro {
     private double custoFabrica;
     private double percentagemDistribuidor = 0.28; 

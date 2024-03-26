@@ -1,3 +1,4 @@
+package Dominio;
 public class Automovel {
     private double distanciaPercorrida;
     private double combustivelGasto;

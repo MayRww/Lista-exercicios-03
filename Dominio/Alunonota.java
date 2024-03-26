@@ -1,3 +1,4 @@
+package Dominio;
 public class Alunonota {
     private String nome;
     private double nota1;

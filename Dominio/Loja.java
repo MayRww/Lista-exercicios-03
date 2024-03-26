@@ -1,3 +1,4 @@
+package Dominio;
 public class Loja {
   
         private double valorCompra;

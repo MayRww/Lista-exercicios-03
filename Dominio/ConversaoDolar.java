@@ -1,3 +1,4 @@
+package Dominio;
 public class ConversaoDolar {
     private double cotacaoDolar;
     private double quantidadeDolar;

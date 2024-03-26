@@ -1,3 +1,4 @@
+package Dominio;
 public class Produto {
         private double precoCusto;
         private double percentualAcrescimo;
