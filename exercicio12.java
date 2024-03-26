@@ -3,11 +3,10 @@ import Dominio.Concessionaria;
 import Dominio.Veiculo;
 
 public class exercicio12 {
-    public static void main(String[] args) {
+    public static void executar() {
         executar();
     }
 
-    public static void executar() {
         Scanner scanner = new Scanner(System.in);
         Concessionaria concessionaria = new Concessionaria();
 
