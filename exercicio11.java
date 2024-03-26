@@ -22,7 +22,7 @@ public class exercicio11 {
                 totalMulheres++;
             } else {
                 System.out.println("Sexo inválido. Por favor, digite M para masculino ou F para feminino.");
-                i--; // Para que o loop repita esta iteração
+                i--; 
             }
         }
 
